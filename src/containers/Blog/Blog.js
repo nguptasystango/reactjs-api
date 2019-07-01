@@ -28,7 +28,7 @@ class Blog extends Component {
         })
         return (
             <div>
-                <section className="Posts">77777777777777777
+                <section className="Posts">
                     {posts}
                 </section>
                 <section>
